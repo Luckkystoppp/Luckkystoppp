@@ -5,7 +5,8 @@
 <br/>
 
 <!-- Vagabond / dark samurai anime GIF banner -->
-<img width="100%" height="280" src="https://i.imgur.com/placeholder.gif" alt="" style="display:none"/>
+![kaoruko-waguri-the-fragrant-flower-blooms-with-dignity](https://github.com/user-attachments/assets/97c14d00-3546-4984-90f9-cbe197ebe8f7)
+
 
 <!-- Fallback: animated gradient wave banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=%E2%9A%94%EF%B8%8F%20Musashi%20no%20Michi&fontSize=44&fontColor=00ffe7&fontAlignY=42&desc=The%20way%20of%20the%20sword%20%3D%20the%20way%20of%20code&descAlignY=62&descSize=16&descColor=c084fc&animation=twinkling&rotate=0&theme=radical"/>
