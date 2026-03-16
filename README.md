@@ -1,6 +1,6 @@
 <div align="center">
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFE7&center=true&vCenter=true&width=700&height=60&lines=Security+Researcher+%F0%9F%94%8D;Bug+Hunter+%E2%80%94+HackerOne+%F0%9F%94%90;Web+Developer+%7C+Node.js+%7C+Python;Wibu+%2F+Anime+Enjoyer+%E2%9A%94%EF%B8%8F;%E3%80%8C%E5%89%A3%E3%81%AE%E9%81%93%E3%81%AF%E3%80%81%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%81%93%E3%80%8D" alt="Typing SVG" />
+ ![kaoruko-waguri-the-fragrant-flower-blooms-with-dignity](https://github.com/user-attachments/assets/c488102e-a2e3-4f42-bf7f-aef01a75b7ed)
+
  
 <br/>
  
