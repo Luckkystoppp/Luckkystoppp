@@ -1,9 +1,16 @@
 <div align="center">
----
-
-<div align="center">![kaoruko-waguri-the-fragrant-flower-blooms-with-dignity](https://github.com/user-attachments/assets/33fac053-6b80-4998-a4e5-2dd527142da1)
-
-
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFE7&center=true&vCenter=true&width=700&height=60&lines=Security+Researcher+%F0%9F%94%8D;Bug+Hunter+%E2%80%94+HackerOne+%F0%9F%94%90;Web+Developer+%7C+Node.js+%7C+Python;Wibu+%2F+Anime+Enjoyer+%E2%9A%94%EF%B8%8F;%E3%80%8C%E5%89%A3%E3%81%AE%E9%81%93%E3%81%AF%E3%80%81%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%81%93%E3%80%8D" alt="Typing SVG" />
+ 
+<br/>
+ 
+<!-- Vagabond / dark samurai anime GIF banner -->
+<img width="100%" height="280" src="https://i.imgur.com/placeholder.gif" alt="" style="display:none"/>
+ 
+<!-- Fallback: animated gradient wave banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=%E2%9A%94%EF%B8%8F%20Musashi%20no%20Michi&fontSize=44&fontColor=00ffe7&fontAlignY=42&desc=The%20way%20of%20the%20sword%20%3D%20the%20way%20of%20code&descAlignY=62&descSize=16&descColor=c084fc&animation=twinkling&rotate=0&theme=radical"/>
+ 
+</div>
 ## 🧬 `$ cat /proc/identity`
 
 </div>
