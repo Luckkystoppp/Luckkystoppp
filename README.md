@@ -1,16 +1,4 @@
-<div align="center">
- ![kaoruko-waguri-the-fragrant-flower-blooms-with-dignity](https://github.com/user-attachments/assets/c488102e-a2e3-4f42-bf7f-aef01a75b7ed)
 
- 
-<br/>
- 
-<!-- Vagabond / dark samurai anime GIF banner -->
-<img width="100%" height="280" src="https://i.imgur.com/placeholder.gif" alt="" style="display:none"/>
- 
-<!-- Fallback: animated gradient wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=%E2%9A%94%EF%B8%8F%20Musashi%20no%20Michi&fontSize=44&fontColor=00ffe7&fontAlignY=42&desc=The%20way%20of%20the%20sword%20%3D%20the%20way%20of%20code&descAlignY=62&descSize=16&descColor=c084fc&animation=twinkling&rotate=0&theme=radical"/>
- 
-</div>
 ## 🧬 `$ cat /proc/identity`
 
 </div>
@@ -18,7 +6,6 @@
 ```python
 class SecurityResearcher:
     location    = "New York, USA 🗽"
-    origin      = "Vietnam 🇻🇳"
     roles       = ["Web Security Researcher", "Web Developer", "Bug Hunter"]
     focus       = ["Penetration Testing", "Bug Bounty", "Exploit Dev", "CTF"]
     anime       = "Vagabond ⚔️  —  Inoue Takehiko"
