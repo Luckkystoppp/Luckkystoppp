@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height="280" src="https://i.imgur.com/placeholder.gif" alt="" style="display:none"/>
 ---
 
-<div align="center">
+<div align="center">![kaoruko-waguri-the-fragrant-flower-blooms-with-dignity](https://github.com/user-attachments/assets/33fac053-6b80-4998-a4e5-2dd527142da1)
+
 
 ## 🧬 `$ cat /proc/identity`
 
